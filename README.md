@@ -1,16 +1,15 @@
-## Hi there 👋
+Olá, eu sou o Cristopher Maltaca!
 
-<!--
-**CristopherMaltaca/CristopherMaltaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software na PUC-PR e entusiasta de tecnologia. 
+Atualmente focado em aprender lógica de programação, desenvolvimento web e automação.
 
-Here are some ideas to get you started:
+Tecnologias e Ferramentas:
+- **Linguagens:** Python (estudando lógica, estruturas de repetição, cálculos matemáticos e visualização de dados).
+- **Em aprendizado neste semestre:** HTML5, CSS3, JavaScript, consumo de APIs e manipulação de JSON.
+- **Outras ferramentas:** Git, GitHub, Excel (automação e organização de dados).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Objetivos:
+- Conquistar minha primeira oportunidade como Estagiário de Engenharia de Software.
+- Desenvolver projetos práticos integrando Python com a Web.
+
+Como me encontrar: crist.ophermaltaca@gmail.com
