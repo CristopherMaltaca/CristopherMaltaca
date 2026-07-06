@@ -10,6 +10,6 @@ Tecnologias e Ferramentas:
 
  Objetivos:
 - Conquistar minha primeira oportunidade como Estagiário de Engenharia de Software.
-- Desenvolver projetos práticos integrando Python com a Web.
+- Desenvolver projetos práticos integrando Python, Web, etc.
 
 Como me encontrar: crist.ophermaltaca@gmail.com
