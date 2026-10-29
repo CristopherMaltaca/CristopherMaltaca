@@ -6,7 +6,7 @@ Atualmente focado em aprender lógica de programação, desenvolvimento web e au
 Tecnologias e Ferramentas:
 - **Linguagens:** Python (estudando lógica, estruturas de repetição, cálculos matemáticos e visualização de dados) e PHP
 - **Desenvolvimento Web:** HTML5, CSS3, JavaScript, consumo de APIs e manipulação de JSON.
-- **Outras ferramentas:** GitHub, Excel (automação e organização de dados).
+- **Outras ferramentas:** GitHub, Excel (automação e organização de dados), Git
 
  Objetivos:
 - Conquistar minha primeira oportunidade como Estagiário de Engenharia de Software.
